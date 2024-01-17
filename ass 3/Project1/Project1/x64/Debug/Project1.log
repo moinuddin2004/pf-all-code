@@ -1,0 +1,6 @@
+﻿  Source.cpp
+D:\ass 3\Project1\Project1\Source.cpp(156,23): warning C4305: '=': truncation from 'double' to 'float'
+D:\ass 3\Project1\Project1\Source.cpp(161,23): warning C4305: '=': truncation from 'double' to 'float'
+D:\ass 3\Project1\Project1\Source.cpp(166,21): warning C4305: '=': truncation from 'double' to 'float'
+D:\ass 3\Project1\Project1\Source.cpp(171,23): warning C4305: '=': truncation from 'double' to 'float'
+  Project1.vcxproj -> D:\ass 3\Project1\x64\Debug\Project1.exe
